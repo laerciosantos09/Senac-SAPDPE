@@ -228,6 +228,10 @@ Este projeto foi desenvolvido como parte do curso Senac SAPDPE. Sugestões e mel
 ### Dashboard
 ![Dashboard Preview](https://via.placeholder.com/800x400/667eea/ffffff?text=Dashboard+Interativo)
 
+
+## 🤖 Execute o Agente
+[![Status do Workflow](https://github.com/laerciosantos09/Senac-SAPDPE/actions/workflows/python-app.yml/badge.svg)](https://github.com/laerciosantos09/Senac-SAPDPE/actions/workflows/python-app.yml)
+
 ### Fluxo BPMN
 ![BPMN Preview](https://via.placeholder.com/800x400/764ba2/ffffff?text=Diagrama+BPMN)
 
