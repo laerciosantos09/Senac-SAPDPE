@@ -226,13 +226,13 @@ Este projeto foi desenvolvido como parte do curso Senac SAPDPE. Sugestões e mel
 ## 📸 Preview
 
 ### Dashboard
-![Dashboard Preview](https://github.com/laerciosantos09/Senac-SAPDPE/blob/main/dashboard_premio_percentual.html)
+![Dashboard Preview](https://github.com/laerciosantos09/Senac-SAPDPE/blob/dashboard_premio_percentual.html)
 
 
 ## 🤖 Execute o Agente
 [![Status do Workflow](https://github.com/laerciosantos09/Senac-SAPDPE/actions/workflows/python-app.yml/badge.svg)](https://github.com/laerciosantos09/Senac-SAPDPE/actions/workflows/python-app.yml)
 
 ### Fluxo BPMN
-![BPMN Preview](https://github.com/laerciosantos09/Senac-SAPDPE/blob/main/bpmn_agente_premio_simplificado.html)
+![BPMN Preview](https://github.com/laerciosantos09/Senac-SAPDPE/blob/bpmn_agente_premio_simplificado.html)
 
 *Obs: Para visualizar os dashboards reais, acesse os arquivos HTML no repositório.*
