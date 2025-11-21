@@ -1,0 +1,35 @@
+# python-app.yml (ou o nome que você escolheu)
+
+name: Executar Agente Prêmio Simplificado
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Configurar Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+        
+    - name: Instalar Dependências (Se houver requirements.txt)
+      run: |
+        python -m pip install --upgrade pip
+        # Instala dependências do seu projeto, se o arquivo existir
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    # 🚀 PASSO DE EXECUÇÃO AJUSTADO PARA SEU ARQUIVO
+    - name: Rodar agente_premio_simplificado.py
+      run: python agente_premio_simplificado.py
