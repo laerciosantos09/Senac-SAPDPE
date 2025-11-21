@@ -179,7 +179,7 @@ Inclui:
 **Instituição:** Senac - SAPDPE  
 **Versão:** 1.0  
 **Data:** Novembro 2025  
-**Autor:** Laércio Santos
+**Autores:** Laércio Santos / Anderson Silva
 
 ---
 
