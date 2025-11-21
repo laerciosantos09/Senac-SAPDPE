@@ -226,7 +226,7 @@ Este projeto foi desenvolvido como parte do curso Senac SAPDPE. Sugestões e mel
 ## 📸 Preview
 
 ### Dashboard
-[**CLIQUE AQUI PARA ABRIR O DASHBOARD**](https://github.com/laerciosantos09/Senac-SAPDPE/blob/dashboard_premio_percentual.html)
+[**CLIQUE AQUI PARA ABRIR O DASHBOARD**](https://github.com/laerciosantos09/Senac-SAPDPE/blob/main/dashboard_premio_percentual.html)
 
 
 ## 🤖 Execute o Agente
@@ -234,6 +234,6 @@ Este projeto foi desenvolvido como parte do curso Senac SAPDPE. Sugestões e mel
 
 ### Fluxo BPMN
 
-[**CLIQUE AQUI PARA ABRIR O FLUXO BPMN**](https://laerciosantos09.github.io/Senac-SAPDPE/bpmn_agente_premio_simplificado.html)
+[**CLIQUE AQUI PARA ABRIR O FLUXO BPMN**](https://github.com/laerciosantos09/Senac-SAPDPE/blob/main/bpmn_agente_premio_simplificado.html)
 
 *Obs: Para visualizar os dashboards reais, acesse os arquivos HTML no repositório.*
